@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=250&section=header&text=Md%20Murad%20Al%20Hasan&fontSize=42&fontColor=ffffff" /> alt="Md Murad Al Hasan">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=250&section=header&text=Md%20Murad%20Al%20Hasan&fontSize=42&fontColor=ffffff" 
 </p>
 
 <a href="https://git.io/typing-svg">
@@ -10,13 +10,13 @@
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/muradalhasan">
   <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/md-murad-al-hasan-0492b3257/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:muradalhassan0407@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="YOUR_PORTFOLIO_URL">

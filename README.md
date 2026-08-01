@@ -49,9 +49,9 @@ My interests sit at the intersection of:
 I enjoy transforming machine-learning experiments into **secure, reproducible, scalable, and maintainable production services**.
 
 ```yaml
-name: YOUR_NAME
+name: MD MURAD AL HASAN
 role: DevOps Engineer and AI Enthusiast
-location: YOUR_LOCATION
+location: Bangladesh,DHaka-1212
 
 focus:
   - Production-Ready AI
@@ -81,13 +81,13 @@ currently_learning:
 ### DevOps and Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,githubactions,jenkins,terraform,ansible,nginx" alt="DevOps technologies"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,aws,jenkins,terraform,ansible,nginx" alt="DevOps technologies"/>
 </p>
 
 ### AI, Machine Learning, and MLOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and ML technologies"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,scikit-learn" alt="AI and ML technologies"/>
 </p>
 
 <p align="left">
@@ -286,17 +286,17 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=muradalhasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradalhasan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=muradalhasan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muradalhasan&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph"/>
 
 </div>
 
@@ -340,13 +340,13 @@ Security, Monitoring, and Reliability
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/muradalhasan">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/md-murad-al-hasan-0492b3257/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:muradalhassan0407@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 

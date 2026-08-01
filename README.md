@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:0F172A,35:1D4ED8,70:7C3AED,100:EC4899&text=Md%20Murad%20Al%20Hasan&fontColor=FFFFFF&fontSize=48&fontAlignY=37&desc=DevOps%20Engineer%20%7C%20AI%20%26%20MLOps%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" alt="Md Murad Al Hasan">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=250&section=header&text=Md%20Murad%20Al%20Hasan&fontSize=42&fontColor=ffffff" /> alt="Md Murad Al Hasan">
 </p>
 
 <a href="https://git.io/typing-svg">

@@ -11,7 +11,7 @@
 <br/><br/>
 
 <a href="https://github.com/muradalhasan">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-muradalhasan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/md-murad-al-hasan-0492b3257/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,9 +25,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=7C3AED" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=EC4899" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=muradalhasan&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/muradalhasan?label=Followers&style=flat-square&color=7C3AED" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/muradalhasan?label=Stars&style=flat-square&color=EC4899" alt="Stars"/>
 
 </div>
 
